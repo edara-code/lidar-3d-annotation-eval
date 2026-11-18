@@ -1,0 +1,277 @@
+{
+  "description": "",
+  "key": "d518686e-1001-42d6-b568-6b012f94181c",
+  "tags": [
+    {
+      "key": "3c27de1f-38a2-4183-8943-379d1eda99fa",
+      "name": "name",
+      "value": "annotator_1",
+      "labelerLogin": "",
+      "createdAt": "2026-11-16 04:34:38.964813+00:00",
+      "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+    },
+    {
+      "key": "d44aa3ac-c7c3-48b5-b6fc-2c4920b0f316",
+      "name": "labels",
+      "value": [
+        {
+          "label_id": 0,
+          "name": "Car",
+          "color": "#3417c6",
+          "type": "any"
+        },
+        {
+          "label_id": 1,
+          "name": "Van",
+          "color": "#34d1b7",
+          "type": "any"
+        },
+        {
+          "label_id": 2,
+          "name": "Truck",
+          "color": "#ff007c",
+          "type": "any"
+        },
+        {
+          "label_id": 3,
+          "name": "Pedestrain",
+          "color": "#ddff33",
+          "type": "any"
+        },
+        {
+          "label_id": 4,
+          "name": "Cyclist",
+          "color": "#f59331",
+          "type": "any"
+        }
+      ],
+      "labelerLogin": "",
+      "createdAt": "2026-11-16 04:34:38.964813+00:00",
+      "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+    }
+  ],
+  "objects": [
+    {
+      "key": "b895cda3-ece4-43f1-a76b-959da2dd54be",
+      "classTitle": "Van",
+      "tags": [
+        {
+          "key": "dc0dbf3a-ca54-4375-aba7-cd7249ecf580",
+          "name": "occluded",
+          "value": "false",
+          "labelerLogin": "",
+          "createdAt": "2026-11-16 04:34:38.964813+00:00",
+          "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+        }
+      ],
+      "objects": [],
+      "figures": [],
+      "labelerLogin": "",
+      "createdAt": "2026-11-16 04:34:38.964813+00:00",
+      "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+    },
+    {
+      "key": "4c27be0a-ca5f-4f44-b4ef-63e4c41073f3",
+      "classTitle": "Van",
+      "tags": [
+        {
+          "key": "d8fe1e14-e536-4053-a06c-9678353c6125",
+          "name": "occluded",
+          "value": "false",
+          "labelerLogin": "",
+          "createdAt": "2026-11-16 04:34:38.964813+00:00",
+          "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+        }
+      ],
+      "objects": [],
+      "figures": [],
+      "labelerLogin": "",
+      "createdAt": "2026-11-16 04:34:38.964813+00:00",
+      "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+    },
+    {
+      "key": "c5c67617-af4f-440a-ad79-9a62970d1b9d",
+      "classTitle": "Car",
+      "tags": [
+        {
+          "key": "4997a324-c199-4050-9446-bed46f2fe003",
+          "name": "occluded",
+          "value": "false",
+          "labelerLogin": "",
+          "createdAt": "2026-11-16 04:34:38.964813+00:00",
+          "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+        }
+      ],
+      "objects": [],
+      "figures": [],
+      "labelerLogin": "",
+      "createdAt": "2026-11-16 04:34:38.964813+00:00",
+      "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+    },
+    {
+      "key": "998d280a-56c6-4789-8d25-75ac0c740825",
+      "classTitle": "Car",
+      "tags": [
+        {
+          "key": "359063a9-3521-45b4-879f-357ca08dfaf4",
+          "name": "occluded",
+          "value": "false",
+          "labelerLogin": "",
+          "createdAt": "2026-11-16 04:34:38.964813+00:00",
+          "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+        }
+      ],
+      "objects": [],
+      "figures": [],
+      "labelerLogin": "",
+      "createdAt": "2026-11-16 04:34:38.964813+00:00",
+      "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+    },
+    {
+      "key": "0037bdad-966b-45d3-97c4-2369e5266e65",
+      "classTitle": "Car",
+      "tags": [
+        {
+          "key": "da7a2239-7a49-4a55-8d35-91553594f0ca",
+          "name": "occluded",
+          "value": "false",
+          "labelerLogin": "",
+          "createdAt": "2026-11-16 04:34:38.964813+00:00",
+          "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+        }
+      ],
+      "objects": [],
+      "figures": [],
+      "labelerLogin": "",
+      "createdAt": "2026-11-16 04:34:38.964813+00:00",
+      "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+    }
+  ],
+  "figures": [
+    {
+      "key": "a46419a9-7a3c-4c42-9da9-3222ac804f37",
+      "objectKey": "b895cda3-ece4-43f1-a76b-959da2dd54be",
+      "geometryType": "cuboid_3d",
+      "geometry": {
+        "position": {
+          "x": -0.71,
+          "y": 9.27,
+          "z": -0.83
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "dimensions": {
+          "x": 4.43,
+          "y": 1.91,
+          "z": 2.15
+        }
+      },
+      "labelerLogin": "",
+      "createdAt": "2026-11-16 04:34:38.964813+00:00",
+      "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+    },
+    {
+      "key": "b588d9e2-9e36-41dc-ba30-cb063901f434",
+      "objectKey": "4c27be0a-ca5f-4f44-b4ef-63e4c41073f3",
+      "geometryType": "cuboid_3d",
+      "geometry": {
+        "position": {
+          "x": 7.5,
+          "y": 9.02,
+          "z": -0.99
+        },
+        "rotation": {
+          "x": -0.07,
+          "y": 0.02,
+          "z": -3.13
+        },
+        "dimensions": {
+          "x": 4.08,
+          "y": 1.64,
+          "z": 1.71
+        }
+      },
+      "labelerLogin": "",
+      "createdAt": "2026-11-16 04:34:38.964813+00:00",
+      "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+    },
+    {
+      "key": "eb7fb55b-2ba4-4786-b2f7-3f72173371eb",
+      "objectKey": "c5c67617-af4f-440a-ad79-9a62970d1b9d",
+      "geometryType": "cuboid_3d",
+      "geometry": {
+        "position": {
+          "x": 16.8,
+          "y": 8.9,
+          "z": -0.91
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 3.08
+        },
+        "dimensions": {
+          "x": 4.16,
+          "y": 1.8,
+          "z": 1.5
+        }
+      },
+      "labelerLogin": "",
+      "createdAt": "2026-11-16 04:34:38.964813+00:00",
+      "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+    },
+    {
+      "key": "e7e8709e-f601-43ae-a804-0b369cf543aa",
+      "objectKey": "998d280a-56c6-4789-8d25-75ac0c740825",
+      "geometryType": "cuboid_3d",
+      "geometry": {
+        "position": {
+          "x": 23.68,
+          "y": 8.64,
+          "z": -0.82
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 3.08
+        },
+        "dimensions": {
+          "x": 4.45,
+          "y": 1.91,
+          "z": 1.62
+        }
+      },
+      "labelerLogin": "",
+      "createdAt": "2026-11-16 04:34:38.964813+00:00",
+      "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+    },
+    {
+      "key": "32c6ce96-9641-4ad5-9d66-e250b43d80bc",
+      "objectKey": "0037bdad-966b-45d3-97c4-2369e5266e65",
+      "geometryType": "cuboid_3d",
+      "geometry": {
+        "position": {
+          "x": 29.76,
+          "y": 8.33,
+          "z": -1.03
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 3.08
+        },
+        "dimensions": {
+          "x": 5.81,
+          "y": 1.67,
+          "z": 1.52
+        }
+      },
+      "labelerLogin": "",
+      "createdAt": "2026-11-16 04:34:38.964813+00:00",
+      "updatedAt": "2026-11-16 06:14:01.120884+00:00"
+    }
+  ]
+}
